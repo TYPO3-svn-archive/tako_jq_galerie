@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'tako_jq_galerie'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">tako jQuery Gallery</label>
+			<label index="tx_takojqgalerie_images">takoGallery</label>
+			<label index="tx_takojqgalerie_images.preview">Preview Image</label>
+			<label index="tako_jq_galerie.pi_flexform.sheet_mainHeader">Image Gallery</label>
+			<label index="tako_jq_galerie.pi_flexform.path">Path: [Image-Folder]</label>
+			<label index="tako_jq_galerie.pi_flexform.button">Button Text</label>
+			<label index="tako_jq_galerie.pi_flexform.preview">Gallery Image</label>
+			<label index="tako_jq_galerie.pi_flexform.titel">Gallery Titel</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tt_content.list_type_pi1">tako jQuery Galerie</label>
+			<label index="tx_takojqgalerie_images">takoGalerie</label>
+			<label index="tx_takojqgalerie_images.preview">Vorschaubild</label>
+			<label index="tako_jq_galerie.pi_flexform.sheet_mainHeader">Bilder Galerie</label>
+			<label index="tako_jq_galerie.pi_flexform.path">Pfad: [Bilder-Ordner]</label>
+			<label index="tako_jq_galerie.pi_flexform.button">Button Text</label>
+			<label index="tako_jq_galerie.pi_flexform.preview">Galerie Bild</label>
+			<label index="tako_jq_galerie.pi_flexform.titel">Galerie Titel</label>
+		</languageKey>
+	</data>
+</T3locallang>
